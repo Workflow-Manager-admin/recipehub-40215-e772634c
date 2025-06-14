@@ -1,0 +1,4 @@
+{
+    "command": "sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/recipehub-40215-e772634c/recipeappdb"
+}
